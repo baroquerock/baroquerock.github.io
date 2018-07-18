@@ -6,15 +6,11 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            x
+title:            Tatiana Gaponova
 tagline:          'y'
 description:      'z'
 url:              http://baroquerock.github.io
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
