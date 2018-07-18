@@ -430,7 +430,7 @@ a.pagination-item:hover {
 }
 
 
-icon {
+.icon {
   width: 0.5em !important;
   height: 0.5em !important;
 }
