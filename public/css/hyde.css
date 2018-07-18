@@ -248,3 +248,14 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Dark Violet */
+.theme-custom .sidebar {
+  /* background-color: #4056A1; */
+  background-color: #123C59;
+  /* background-color: #8860D0; */
+}
+.theme-custom .content a,
+.theme-custom .related-posts li a:hover {
+  color: #f8e9ff;
+}
