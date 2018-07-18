@@ -6,6 +6,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
+title:            x
+tagline:          'y'
+description:      'z'
 url:              http://baroquerock.github.io
 baseurl:          /
 
