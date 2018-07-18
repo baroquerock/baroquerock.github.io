@@ -252,7 +252,9 @@ a.sidebar-nav-item:focus {
 /* Custom */
 .theme-custom .sidebar {
   /* background-color: #4056A1; */
-  background-color: #123C59;
+  /* background-color: #123C59; */
+  /* background-color: #29648A; */
+  background-color: #A16E83;
   /* background-color: #8860D0; */
 }
 .theme-custom .content a,
