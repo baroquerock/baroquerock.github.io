@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Tatiana Gaponova
 description:      'CINEMA | AI | TRAVEL'
 url:              http://baroquerock.github.io
-baseurl:          /
+baseurl:          ''
 
 paginate:         5
 
