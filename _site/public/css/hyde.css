@@ -267,7 +267,7 @@ a.sidebar-nav-item:focus {
 .theme-modern_and_minimalist strong {
   color:#cccccc;
 }
-.theme-modern_and_minimalist code {
+.theme-modern_and_minimalist pre code {
   color: #959595;
   background-color: #e0e0e0;
 }
