@@ -429,7 +429,6 @@ a.pagination-item:hover {
   }
 }
 
-a.icon  {
-  width: 100px;
-  height: 100px;
+.social-media  {
+  margin-left: 1.5em
 }
