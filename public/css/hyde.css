@@ -255,7 +255,7 @@ a.sidebar-nav-item:focus {
   background-color: #123C59;
   /* background-color: #8860D0; */
 }
-.theme-custom .content a,
+.theme-custom .content #AC3B61,
 .theme-custom .related-posts li a:hover {
   color: #AC3B61;
 }
