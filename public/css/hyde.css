@@ -253,19 +253,19 @@ a.sidebar-nav-item:focus {
 .theme-modern_and_minimalist .sidebar {
   background-color: #A16E83;
 }
-
 .theme-modern_and_minimalist {
   color: #989898;
   background-color: #19181A;
 }
-
 .theme-modern_and_minimalist .content a,
 .theme-modern_and_minimalist .related-posts li a:hover {
   color: #CEBC81;
 }
-
 .theme-modern_and_minimalist h1, h2, h3, h4, h5, h6 {
     color: #90C0A0;
+}
+.theme-modern_and_minimalist strong {
+  color:#cccccc
 }
 
 
