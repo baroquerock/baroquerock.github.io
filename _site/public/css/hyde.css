@@ -265,12 +265,13 @@ a.sidebar-nav-item:focus {
     color: #90C0A0;
 }
 .theme-modern_and_minimalist strong {
-  color:#cccccc;
+  color: #cccccc;
 }
-.theme-modern_and_minimalist pre code {
-  color: #959595;
-  background-color: #e0e0e0;
+.theme-modern_and_minimalist blockquote {
+  color: #cccccc;
+  border-left: #9f9eb1;
 }
+
 
 
 
