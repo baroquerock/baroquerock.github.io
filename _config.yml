@@ -23,5 +23,7 @@ paginate:         5
 github:
   repo:           https://github.com/baroquerock/baroquerock.github.io
 
+theme: "hyde"
+
 params:
-  themeColor: "theme-base-0d"
+  themeColor: "theme-base-09"
