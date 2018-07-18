@@ -24,7 +24,4 @@ github:
   repo:           https://github.com/baroquerock/baroquerock.github.io
 
 params:
-  themeColor: "theme-base-09"
-
-plugins:
-  - jekyll-gist
+  themeColor: "theme-base-0d"
