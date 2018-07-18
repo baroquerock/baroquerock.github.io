@@ -17,7 +17,5 @@ paginate:         5
 github:
   repo:           https://github.com/baroquerock/baroquerock.github.io
 
-pages_list:
-  Feed: '/atom.xml'
 
 plugins: [jekyll-gist, jekyll-archives, jekyll-paginate]
