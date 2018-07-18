@@ -269,7 +269,7 @@ a.sidebar-nav-item:focus {
 }
 .theme-modern_and_minimalist blockquote {
   color: #8e8e8e;
-  border-left: #9f9eb1;
+  border-left: .25rem solid #9f9eb1;
 }
 
 
