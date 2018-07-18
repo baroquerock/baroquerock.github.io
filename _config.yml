@@ -21,4 +21,4 @@ github:
 pages_list:
   Feed: '/atom.xml'
 
-gems: [jekyll-gist, jekyll-archives]
+plugins: [jekyll-gist, jekyll-archives, jekyll-paginate]
