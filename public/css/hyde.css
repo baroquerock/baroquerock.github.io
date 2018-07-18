@@ -260,31 +260,56 @@ a.sidebar-nav-item:focus {
 
 /* Modern and Minimalist */
 .theme-modern_and_minimalist .sidebar {
-  background-color: #A16E83;
+  background-color: #123C59;
 }
 .theme-modern_and_minimalist {
   color: #989898;
-  background-color: #19181A;
+  background-color: #171718;
 }
 .theme-modern_and_minimalist .content a,
 .theme-modern_and_minimalist .related-posts li a:hover {
-  color: #CEBC81;
+  color:  #4b86b4;
 }
 .theme-modern_and_minimalist h1, h2, h3, h4, h5, h6 {
-  color: #90C0A0;
+  color: #6497b1;
 }
 .theme-modern_and_minimalist strong {
-  color: #cccccc;
+  color: #a2a2a2;
 }
 .theme-modern_and_minimalist blockquote {
-  color: #d9c5cd;
-  border-left: .25rem solid #9f9eb1;
+  color: #6497b1;
+  border-left: .25rem solid #6497b1;
 }
-.theme-modern_and_minimalist .post-date abbr {
-  color: #d9c5cd;
+.theme-modern_and_minimalist .post-date {
+  color: #b7cee1;
 }
 .theme-modern_and_minimalist abbr {
-  color: #d9c5cd;
+  color: #4b86b4;
+}
+.theme-modern_and_minimalist code {
+  color:  #171718;
+  background-color: #989898;
+}
+.theme-modern_and_minimalist pre {
+  background-color: #e0e0e0;
+}
+.theme-modern_and_minimalist pre code {
+  background-color: #e0e0e0;
+}
+.theme-modern_and_minimalist .gist pre {
+  background-color: #e0e0e0;
+}
+.theme-modern_and_minimalist .gist code {
+  color: #171718;
+  background-color: #e0e0e0;
+}
+.theme-modern_and_minimalist .message {
+  color:  #171718;
+  background-color: #e0e0e0;
+}
+.theme-modern_and_minimalist .page-title,
+.theme-modern_and_minimalist .post-title {
+  color: #4b86b4;
 }
 
 
@@ -294,9 +319,14 @@ a.sidebar-nav-item:focus {
 
 
 
+
+
+
+/* background-color: #A16E83; */
 /* background-color: #4056A1; */
 /* background-color: #123C59; */
 /* background-color: #29648A; */
 /* background-color: #8860D0; */
 /* color: #AC3B61; */
 /* color: #479761; */
+/* color: #CEBC81; */
