@@ -267,10 +267,12 @@ a.sidebar-nav-item:focus {
 .theme-modern_and_minimalist strong {
   color: #cccccc;
 }
-.theme-modern_and_minimalist blockquote {
+.theme-modern_and_minimalist blockquote .post-date {
   color: #d9c5cd;
   border-left: .25rem solid #9f9eb1;
 }
+
+
 
 
 
