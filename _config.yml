@@ -7,7 +7,6 @@ relative_permalinks: false
 
 # Setup
 title:            Tatiana Gaponova
-tagline:          'y'
 description:      'cinema | ai | travel'
 url:              http://baroquerock.github.io
 baseurl:          /
