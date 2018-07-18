@@ -264,6 +264,10 @@ a.sidebar-nav-item:focus {
   color: #CEBC81;
 }
 
+.theme-modern_and_minimalist h1, h2, h3, h4, h5, h6 {
+    color: #B19F9E;
+}
+
 
 /* background-color: #4056A1; */
 /* background-color: #123C59; */
