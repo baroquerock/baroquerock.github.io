@@ -21,6 +21,4 @@ github:
 pages_list:
   Feed: '/atom.xml'
 
-theme: hyde
-
 gems: [jekyll-gist, jekyll-archives]
