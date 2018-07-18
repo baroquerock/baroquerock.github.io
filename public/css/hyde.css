@@ -260,5 +260,6 @@ a.sidebar-nav-item:focus {
 .theme-custom .content a,
 .theme-custom .related-posts li a:hover {
   /* color: #AC3B61; */
-  color: #479761;
+  /* color: #479761; */
+  color: #CEBC81;
 }
