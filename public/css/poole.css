@@ -429,7 +429,7 @@ a.pagination-item:hover {
   }
 }
 
-.icon {
+a.icon  {
   width: 100px;
-  height: 100px;  
+  height: 100px;
 }
