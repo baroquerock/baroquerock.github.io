@@ -60,9 +60,7 @@ html {
 
 body {
   color: #515151;
-  /*background-color: #202020;*/
-  /*background-color: #25274D;*/
-  background-color: #19181A;
+  background-color: #202020;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }

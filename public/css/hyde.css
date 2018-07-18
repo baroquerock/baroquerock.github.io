@@ -249,17 +249,24 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Custom */
-.theme-custom .sidebar {
-  /* background-color: #4056A1; */
-  /* background-color: #123C59; */
-  /* background-color: #29648A; */
+/* Modern and Minimalist */
+.theme-modern_and_minimalist .sidebar {
   background-color: #A16E83;
-  /* background-color: #8860D0; */
+
 }
-.theme-custom .content a,
-.theme-custom .related-posts li a:hover {
-  /* color: #AC3B61; */
-  /* color: #479761; */
+.theme-modern_and_minimalist .content a,
+
+.theme-modern_and_minimalist {
+  background-color: #19181A;
+}
+.theme-modern_and_minimalist .related-posts li a:hover {
   color: #CEBC81;
 }
+
+
+/* background-color: #4056A1; */
+/* background-color: #123C59; */
+/* background-color: #29648A; */
+/* background-color: #8860D0; */
+/* color: #AC3B61; */
+/* color: #479761; */
