@@ -6,9 +6,6 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Fill
-tagline:          'Fill'
-description:      'Fill'
 url:              http://baroquerock.github.io
 baseurl:          /
 
