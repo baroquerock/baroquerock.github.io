@@ -252,11 +252,11 @@ a.sidebar-nav-item:focus {
 /* Modern and Minimalist */
 .theme-modern_and_minimalist .sidebar {
   background-color: #A16E83;
-
 }
 .theme-modern_and_minimalist .content a,
 
 .theme-modern_and_minimalist {
+  color: #DCDCDC;
   background-color: #19181A;
 }
 .theme-modern_and_minimalist .related-posts li a:hover {
