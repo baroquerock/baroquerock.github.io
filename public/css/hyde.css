@@ -271,7 +271,7 @@ a.sidebar-nav-item:focus {
   color: #d9c5cd;
   border-left: .25rem solid #9f9eb1;
 }
-.theme-modern_and_minimalist .post-date  {
+.theme-modern_and_minimalist .post-date abbr {
   color: #d9c5cd;
 }
 
