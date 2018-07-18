@@ -262,15 +262,20 @@ a.sidebar-nav-item:focus {
   color: #CEBC81;
 }
 .theme-modern_and_minimalist h1, h2, h3, h4, h5, h6 {
-    color: #90C0A0;
+  color: #90C0A0;
 }
 .theme-modern_and_minimalist strong {
   color: #cccccc;
 }
-.theme-modern_and_minimalist blockquote .post-date {
+.theme-modern_and_minimalist blockquote {
   color: #d9c5cd;
   border-left: .25rem solid #9f9eb1;
 }
+.theme-modern_and_minimalist .post-date  {
+  color: #d9c5cd;
+}
+
+
 
 
 
