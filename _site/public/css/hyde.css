@@ -249,13 +249,13 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Dark Violet */
+/* Custom */
 .theme-custom .sidebar {
   /* background-color: #4056A1; */
   background-color: #123C59;
   /* background-color: #8860D0; */
 }
-.theme-custom .content #AC3B61,
+.theme-custom .content a,
 .theme-custom .related-posts li a:hover {
   color: #AC3B61;
 }
