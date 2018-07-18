@@ -60,7 +60,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #202020;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -144,6 +144,7 @@ abbr {
 }
 abbr[title] {
   cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
 }
 
 /* Code */
@@ -197,7 +198,6 @@ pre code {
 .gist pre {
   padding: 0;
   background-color: transparent;
-
 }
 .gist .gist-file .gist-data {
   font-size: .8rem !important;
@@ -248,7 +248,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #c7c7c7;
+  background-color: #f9f9f9;
 }
 
 
