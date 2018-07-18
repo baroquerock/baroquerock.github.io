@@ -87,6 +87,9 @@ html {
 .sidebar-nav {
   margin-bottom: 1rem;
 }
+.sidebar-menu {
+  margin-bottom: 10rem;
+}
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
