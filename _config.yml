@@ -10,7 +10,7 @@ description:      'XXX &middot; YYY &middot; ZZZ'
 url:              http://baroquerock.github.io
 base.url:         nil
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 
