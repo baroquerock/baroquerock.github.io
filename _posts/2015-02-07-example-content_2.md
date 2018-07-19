@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content 2
+tags: jekyll blog
 ---
 
 

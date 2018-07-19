@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content 3
+tags: jekyll github 
 ---
 
 

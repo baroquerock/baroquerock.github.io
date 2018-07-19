@@ -311,6 +311,9 @@ a.sidebar-nav-item:focus {
 .theme-modern_and_minimalist .post-title {
   color: #4b86b4;
 }
+.theme-modern_and_minimalist body::selection {
+  color: #8e44ad;
+}
 
 
 
