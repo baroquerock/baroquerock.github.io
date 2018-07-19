@@ -91,6 +91,7 @@ html {
   margin-bottom: 5rem;
 }
 .sidebar-nav-item {
+  color: #C1C8E4 !important;
   display: block;
   line-height: 1.75;
 }
