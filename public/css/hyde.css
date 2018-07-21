@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -91,7 +91,6 @@ html {
   margin-bottom: 5rem;
 }
 .sidebar-nav-item {
-  color: #C1C8E4 !important;
   display: block;
   line-height: 1.75;
 }
