@@ -15,7 +15,7 @@ Imagine you are a freelance herpetologist (a person who studies reptiles and amp
 <img src="/images/both_1.png" height="270" width="350">
 </p>
 
-How messy this tedious process can become sometimes! In Python it would look like this:
+How messy this tedious process can become sometimes! In Python it would look similar to this:
 
 {% highlight py %}
 
