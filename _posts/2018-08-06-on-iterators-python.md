@@ -83,7 +83,8 @@ def python_generator(aquarium):
 	yield python
 {% endhighlight %}
 
-For-loop can take this generator and help you to feed your pythons:
+
+The <ins>**yield**</ins> keyword is an essential part of a generator. It 'freezes' the generator's internal state, so everytime you call the generator, it gives you the next python to feed. <ins>**For-loop**</ins> can take this generator and help you to feed your pythons:
 
 {% highlight py %}
 for python in python_generator(aquarium):
