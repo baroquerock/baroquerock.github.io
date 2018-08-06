@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On iterators and generators, or how to feed your pythons in Python
+title: On iterators, generators and cold-blooded creatures, or how to feed your pythons in Python
 tags: python
 ---
 &nbsp;
@@ -27,7 +27,7 @@ aquarium[4].feed()
 
 {% endhighlight %}
 
-Now, imagine what would happen if you had 100 pythons! It will be hard to look after every animal. If you by mistake confuse the indices, some sneaky creatures can get double servings, while others will get none:
+Now, imagine what would happen if you had 100 pythons! It would be extremely time consuming to look after each animal. If you by mistake confuse the indices, some sneaky creatures can get double servings, while others will get none:
 
 {% highlight py %}
 
@@ -40,7 +40,7 @@ aquarium[57].feed()
 {% endhighlight %}
 
 
-Luckily for you, there is a mechanism built in your aquarium, which can give you one python at a time, so you don’t have to manually sort them out. This mechanism is called the <ins>**for-loop**</ins>. There is a catch, though. Have you ever seen how five snakes in one aquarium can look like?
+Luckily for you, there is a mechanism built into your aquarium, which can give you one python at a time, so you don’t have to manually sort them out. This mechanism is called the <ins>**for-loop**</ins>. There is a catch, though. Have you ever seen how five snakes in one aquarium can look like?
 
 That twisted and convoluted bunch is not so easy to handle, and that’s why you should explicitly tell your mechanism how exactly it should disentangle these lovely creatures. This is what the method <ins>**next**</ins> does. It specifies how to pick the next python you are going to feed. The <ins>**iter**</ins> method just returns the aquarium and, in our case, initializes some starting variables. You need to disassemble the aquarium and insert these two methods into it. Your shiny upgraded aquarium will have a new look:
 
