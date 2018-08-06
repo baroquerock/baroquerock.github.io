@@ -73,7 +73,7 @@ However, the previous solution looks rather complicated. You have to go to the a
 <img src="/images/both_2.png" height="270" width="350">
 </p>
 
-Thank goodness, there is a special type of the iterator mechanism that is called <em>generator</em>, which can be used quite easily. You don’t need to internally modify your aquarium, you can just add some simple extension to it. This extension will give you one python at a time and will take all the burden of remembering which pythons are still hungry and which are not. This generator extension looks like this:
+Thank goodness, there is a special type of the iterator mechanism that is called <em>generator</em>, which can be used quite easily. You don’t need to internally modify your aquarium, you can just add some simple extension to it. This extension will help you to feed one python at a time and will take all the burden of remembering which pythons are still hungry and which are not. This aquarium generator extension can look like this:
 
 {% highlight py %}
 def python_generator(aquarium):
@@ -84,7 +84,7 @@ def python_generator(aquarium):
 {% endhighlight %}
 
 
-The <ins>**yield**</ins> keyword is an essential part of a generator. It 'freezes' the generator's internal state, so everytime you call the generator, it gives you the next python to feed. <ins>**For-loop**</ins> can take this generator and help you to feed your pythons:
+The <ins>**yield**</ins> keyword is an essential part of any generator. It 'freezes' the generator's internal state, so everytime you call the generator, it gives you the next python to feed.The generator can be used in the <ins>**for-loop**</ins> as well: 
 
 {% highlight py %}
 for python in python_generator(aquarium):
