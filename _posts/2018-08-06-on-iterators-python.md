@@ -79,7 +79,7 @@ Thank goodness, there is a special type of the iterator mechanism that is called
 def python_generator(aquarium):
     num_pythons = len(aquarium)
     for i in range(num_pythons):
-        python = aquarium[I]
+        python = aquarium[i]
 	yield python
 {% endhighlight %}
 
