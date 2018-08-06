@@ -5,7 +5,7 @@ tags: python
 ---
 &nbsp;
 
-<em>**Disclaimer**: All characters appearing in this work are fictitious. Any resemblance to real pythons, living or dead, is purely coincidental. This is a very informal treatment of iterator and generator concepts in the Python language. I will be glad to hear any suggestions on how to make the metaphors used here more vivid and precise. Meanwhile, if you need to dive deeper I recommend checking this [Datacamp article](https://www.datacamp.com/community/tutorials/python-iterator-tutorial). </em>
+<em>**Disclaimer**: All characters appearing in this work are fictitious. Any resemblance to real pythons, living or dead, is purely coincidental. This is a very informal treatment of iterator and generator concepts in the Python language. I will be glad to hear any suggestions on how to make the metaphors used here more vivid and precise. Meanwhile, if you need to dive deeper I recommend checking this [Datacamp article](https://www.datacamp.com/community/tutorials/python-iterator-tutorial). Now we are ready, let's begin! </em>
 
 <del>Imagine you are a sales manager at Parch and Posey</del>.
 
@@ -102,7 +102,7 @@ The <ins>**yield**</ins> keyword is an essential part of any generator. It 'free
 
 for python in python_generator(aquarium):
 	python.feed()
-  
+
 {% endhighlight %}
 
 
