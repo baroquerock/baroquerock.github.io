@@ -5,6 +5,8 @@ tags: python
 ---
 &nbsp;
 
+<em>**Disclaimer**: All characters appearing in this work are fictitious. Any resemblance to real pythons, living or dead, is purely coincidental. This is a very informal treatment of iterator and generator concepts in the Python language. I will be glad to hear any suggestions on how to make the metaphors used here more vivid and precise. Meanwhile, If you need to dive deeper I recommend checking this [Datacamp article](https://www.datacamp.com/community/tutorials/python-iterator-tutorial). </em>
+
 <del>Imagine you are a sales manager at Parch and Posey</del>.
 
 Imagine you are a freelance herpetologist (a person who studies reptiles and amphibians) and you have five pythons in one big aquarium at your home. Every morning you need to manually feed them: pull every python out of the aquarium, give food to it, and put it back.
@@ -84,7 +86,7 @@ def python_generator(aquarium):
 {% endhighlight %}
 
 
-The <ins>**yield**</ins> keyword is an essential part of any generator. It 'freezes' the generator's internal state, so everytime you call the generator, it gives you the next python to feed.The generator can be used in the <ins>**for-loop**</ins> as well: 
+The <ins>**yield**</ins> keyword is an essential part of any generator. It 'freezes' the generator's internal state, so everytime you call the generator, it gives you the next python to feed. The generator can be used in the <ins>**for-loop**</ins> as well:
 
 {% highlight py %}
 for python in python_generator(aquarium):
